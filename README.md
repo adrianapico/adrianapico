@@ -2,7 +2,7 @@
 
 <!--here I have to describe my personal profile -->
 <h3 align="center"> 
-  I'm Industrial Engineer and Junior FullStack  Web Developer  ....
+  I'm an Industrial Engineer and Junior FullStack Web Developer with a passion for backend. C
 </h3>
 
 <div align="center">
