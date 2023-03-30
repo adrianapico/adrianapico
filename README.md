@@ -1,4 +1,4 @@
-<h1 align="center" > Hey, I'm Adriana 👋 </h1> <br>
+<h1 align="center" > Hey, I'm Adriana 👋 </h1> 
 
 <!--here I have to describe my personal profile -->
 <h3 align="justify"> 
