@@ -2,7 +2,7 @@
 
 <!--here I have to describe my personal profile -->
 <h3 align="justify"> 
-  I'm an Industrial Engineer and Junior FullStack Web Developer with a passion for backend. Currently, I am starting my professional career in the tech world and I am committed to continuously learning and improving my skills to provide high-quality solutions for any project. I pride myself on my ability to work in a team, achieving common goals and tackling new challenges with enthusiasm. I am excited to contribute my skills to any project and always willing to learn.
+  I'm an Industrial Engineer and I am starting my professional career in the tech world and I am committed to continuously learning and improving my skills to provide high-quality solutions for any project. I pride myself on my ability to work in a team, achieving common goals and tackling new challenges with enthusiasm. I am excited to contribute my skills to any project and always willing to learn.
 </h3> <br>
 
 <div align="center">
